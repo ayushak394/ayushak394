@@ -1,12 +1,7 @@
 <!-- Modern Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Ayush%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Ayush%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descSize=18"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=5DADE2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Focused+Engineer;Next.js+%7C+Spring+Boot+%7C+SQL;Building+Secure+Scalable+Systems" />
-</p>
-
 
 ## About Me
 
