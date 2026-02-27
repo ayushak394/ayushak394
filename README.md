@@ -29,8 +29,8 @@ Currently building **HopeHaven** — a privacy-first mental health platform powe
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushak394&theme=github_dark" width="34.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushak394&theme=github_dark" width="34.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushak394&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushak394&theme=github_dark" width="49%" />
 </p>
 
 # 🚀 Featured Projects
